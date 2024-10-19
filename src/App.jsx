@@ -48,7 +48,7 @@ function App() {
       return
     }
     let db = JSON.parse(localStorage.getItem('todo-app'))
-    setTodos(db.todos)
+    setTodos(db.todos) //the state updater function setTodos is called to populate the state with the todos from localStorage.
   }, [])
   
   return (
