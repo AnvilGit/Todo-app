@@ -55,21 +55,21 @@ npm run dev
 
 4. Open your browser and go to http://localhost:5173 to view the application.
 
-5. ### Live Application URL
+### Live Application URL
 
 The Application is deployed in https://react-todo-app24.netlify.app
 Click on the link to see the application
 
 ### Usage
-#### Add a new task: Type a task into the input field and click 'Add'.
-#### Mark as complete: Click Done button to mark it as complete.
-#### Delete a task: Click the delete button to remove a task.
-#### View different task statuses: Use the tabs to filter between all task, open and completed tasks.
+- Add a new task: Type a task into the input field and click 'Add'.
+- Mark as complete: Click Done button to mark it as complete.
+- Delete a task: Click the delete button to remove a task.
+- View different task statuses: Use the tabs to filter between all task, open and completed tasks.
 
 
 ### Project Structure
 - App.jsx: The main component that manages the state of the application, including notes and edit functionality.
 #### Components:
-##### Header.jsx: A component that renders the header of the application.
-##### Tabs.jsx: Handles switching between All, Open and Completed tasks.
-##### TodoInput.jsx: Input field to add new todos.
+- Header.jsx: A component that renders the header of the application.
+- Tabs.jsx: Handles switching between All, Open and Completed tasks.
+- TodoInput.jsx: Input field to add new todos.
