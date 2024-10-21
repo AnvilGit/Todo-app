@@ -73,3 +73,8 @@ Click on the link to see the application
 - Header.jsx: A component that renders the header of the application.
 - Tabs.jsx: Handles switching between All, Open and Completed tasks.
 - TodoInput.jsx: Input field to add new todos.
+
+### Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+
